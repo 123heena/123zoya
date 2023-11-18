@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Header.css"
-import Image from './image/image2.jpeg'
+import Background from './image/image2.jpeg'
 class Header extends React.Component
 {
   render()
@@ -13,7 +13,7 @@ class Header extends React.Component
             </center>
             </h1>
         <h2>Welcome to Portfolio of Heena Kousar</h2>
-        <img src={Image}/>
+        <img src={Background}></img>
        
       </div>
     )

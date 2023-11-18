@@ -7,6 +7,7 @@ class Footer extends React.Component
   {
     return(
       <div className="footer">
+        
         <h1 style={{color:"blue",frontWeight:"bold"}}>
           @Heena Kousar....
         </h1>
